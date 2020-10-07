@@ -1,1 +1,1 @@
-secript para geração de números aleatórios para megasena.
+script para geração de números aleatórios para megasena.
